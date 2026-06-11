@@ -5,22 +5,24 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1A12,50:4B2E1E,100:5B7C99&height=200&section=header&text=ColdBrewony&fontColor=E8D8C3&fontSize=48&desc=Brewed%20slowly,%20shipped%20daily.&descAlign=50&descAlignY=62&descSize=16"
-  alt="ColdBrewony — Brewed slowly, shipped daily."
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1A12,50:4B2E1E,100:5B7C99&height=200&section=header&text=ColdBrewony&fontColor=E8D8C3&fontSize=48&desc=Backend%20Developer%20·%20Brewed%20slowly,%20shipped%20daily.&descAlign=50&descAlignY=62&descSize=16"
+  alt="ColdBrewony — Backend Developer · Brewed slowly, shipped daily."
   width="100%"
 />
 
 <!-- ② 자기소개 (typing SVG — 한/영 4줄 교차) -->
-<a href="https://woo-nny.tistory.com/">
+<a href="https://portfolio-woonny-s-projects.vercel.app/">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=8FB3CC&size=22&center=true&vCenter=true&width=600&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+woonny%EC%9E%85%EB%8B%88%EB%8B%A4+%E2%98%95;Cold+Brew+%26+Clean+Code;%EA%B2%8C%EC%9E%84%EC%9D%84+%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%8E%AE;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EA%B7%B8%EB%9F%AC%EB%82%98+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%BB%A4%EB%B0%8B%ED%95%A9%EB%8B%88%EB%8B%A4"
-    alt="안녕하세요, woonny입니다. Cold Brew & Clean Code. 게임을 좋아하는 개발자. 천천히, 그러나 꾸준히 커밋합니다."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=8FB3CC&size=22&center=true&vCenter=true&width=640&height=60&lines=%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%A7%80%EC%9B%90%EC%9E%85%EB%8B%88%EB%8B%A4+%E2%98%95;Backend+Developer+%C2%B7+Spring+%26+WebFlux;%EA%B5%AC%EC%A1%B0%EB%A5%BC+%EB%B9%A0%EB%A5%B4%EA%B2%8C+%ED%8C%8C%EC%95%85%ED%95%98%EA%B3%A0+%ED%95%B5%EC%8B%AC%EC%9D%84+%ED%95%B4%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EA%B7%B8%EB%9F%AC%EB%82%98+%EA%BE%B8%EC%A4%80%ED%9E%88+%EC%BB%A4%EB%B0%8B%ED%95%A9%EB%8B%88%EB%8B%A4"
+    alt="백엔드 개발자 김지원입니다. Backend Developer · Spring & WebFlux. 구조를 빠르게 파악하고 핵심을 해결합니다. 천천히, 그러나 꾸준히 커밋합니다."
   />
 </a>
 
-☕ **게임과 커피로 굴러가는 개발자 woonny입니다.**
+☕ **전체 시스템 구조를 빠르게 파악하고 핵심 문제를 신속하게 해결하는 백엔드 개발자 김지원(woonny)입니다.**
 
-🎮 관심사: 게임 &nbsp;·&nbsp; ✍️ 기록: [Tistory](https://woo-nny.tistory.com/)에 글을 씁니다 &nbsp;·&nbsp; 🧊 컨셉: 천천히 내리는 Cold Brew
+🖥️ 현직: 백엔드 개발자 @ **N3N**(Jikji Labs Division) &nbsp;·&nbsp; 📍 서울 구로구 &nbsp;·&nbsp; ☕ 블로그 필명 *ColdBreWoony*
+
+🌱 Spring · WebFlux · MSA &nbsp;·&nbsp; ✍️ 기록: [Tistory](https://woo-nny.tistory.com/) &nbsp;·&nbsp; 💼 [Portfolio](https://portfolio-woonny-s-projects.vercel.app/) &nbsp;·&nbsp; 🎮 취미로 게임 한 판
 
 </div>
 
@@ -30,25 +32,52 @@
 
 ## ☕ 기술 스택 <sub>Tech Stack</sub>
 
-> 주로 게임을 만들며, 새 게임을 시작하듯 새 기술을 익히는 걸 좋아합니다.
+> Spring 생태계 기반의 백엔드와 MSA·비동기(Reactive) 시스템을 주로 다룹니다.
 
-<!-- TODO(woonny): 실제 사용하는 기술로 교체하세요. 아래는 게임+웹 기본 세트 예시입니다. -->
-<!-- 배지 형식: https://img.shields.io/badge/{LABEL}-{COLOR}?style=for-the-badge&logo={simpleicons-slug}&logoColor=white -->
+**Languages**
 
-**Game / Engine**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-**Web / Tools**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Batch](https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-C75A22?style=for-the-badge&logoColor=white)
+![JPA / Hibernate](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Datastores**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Infra & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Messaging / Event**
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis Pub/Sub](https://img.shields.io/badge/Redis%20Pub%2FSub-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!-- ④ GitHub 통계 (stats + top-langs 2단 / streak / trophy / activity-graph) -->
@@ -122,38 +151,45 @@
 
 <div align="center">
 
-## 🕹️ 포트폴리오 <sub>Portfolio</sub>
+## 💼 포트폴리오 <sub>Portfolio</sub>
 
-<!-- TODO(woonny): 프로젝트가 생기면 아래 셀의 "곧 채워질 자리예요 🚧"를 -->
-<!-- 실제 내용으로 교체하세요. 권장 형식: **제목** / 사용 스택 / 🔗 링크 -->
-<!-- 예) Cold Runner / Unity · C# / 🔗 https://github.com/ColdBrewony/cold-runner -->
+[![전체 포트폴리오 보기](https://img.shields.io/badge/%F0%9F%94%97%20%EC%A0%84%EC%B2%B4%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EB%B3%B4%EA%B8%B0-5B7C99?style=for-the-badge&logoColor=white)](https://portfolio-woonny-s-projects.vercel.app/)
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>🧊 Project Slot #1</b><br>
-      <code>곧 채워질 자리예요 🚧</code><br>
-      <sub>제목 · 스택 · 🔗 link</sub>
+    <td align="center" width="50%" valign="top">
+      <b>☁️ Cloud Usage Metering &amp; Billing System</b><br>
+      <sub>2025.06 ~</sub><br>
+      클라우드 자원 사용량 측정·과금 백엔드.<br>
+      정수 고정소수점 무오차 정산, R2DBC 비동기 이중 DB.<br>
+      <code>Java 21 · WebFlux · R2DBC · PostgreSQL · Redis · Reactor-Kafka</code>
     </td>
-    <td align="center" width="50%">
-      <b>🧊 Project Slot #2</b><br>
-      <code>곧 채워질 자리예요 🚧</code><br>
-      <sub>제목 · 스택 · 🔗 link</sub>
+    <td align="center" width="50%" valign="top">
+      <b>🖧 GPU Cloud Platform Backend (MSA)</b><br>
+      <sub>2024.08 ~</sub><br>
+      게이트웨이 단일 진입점 + Kafka 서비스간 메시징<br>
+      + K8s 실시간 모니터링 MSA.<br>
+      <code>Spring Cloud Gateway · WebFlux · Reactor-Kafka · R2DBC · fabric8 · Prometheus</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <b>🧊 Project Slot #3</b><br>
-      <code>곧 채워질 자리예요 🚧</code><br>
-      <sub>제목 · 스택 · 🔗 link</sub>
+    <td align="center" width="50%" valign="top">
+      <b>🗣️ Cubi AI Voice Chatbot Platform</b><br>
+      <sub>2024.07 ~ 2025.03</sub><br>
+      STT → LLM → TTS 실시간 음성 파이프라인.<br>
+      <code>Spring WebFlux · Redis · FFmpeg · NVIDIA Triton</code>
     </td>
-    <td align="center" width="50%">
-      <b>🧊 Project Slot #4</b><br>
-      <code>곧 채워질 자리예요 🚧</code><br>
-      <sub>제목 · 스택 · 🔗 link</sub>
+    <td align="center" width="50%" valign="top">
+      <b>🔌 AMI 원격검침 통합관리 시스템</b><br>
+      <sub>2021.09 ~ 2022.10 · GS인증 1등급</sub><br>
+      전기/가스/수도 자동검침, 카카오 알림 배치,<br>
+      AES-128 / SHA-256 암호화.<br>
+      <code>Java · Spring · MyBatis · MySQL · Apache POI</code>
     </td>
   </tr>
 </table>
+
+<sub>NB-IoT 단말 30만대 관리 등 더 많은 프로젝트는 <a href="https://portfolio-woonny-s-projects.vercel.app/">전체 포트폴리오</a>에서 확인하세요.</sub>
 
 <!-- ════════════════════════════════════════════════════════════ -->
 <!-- ⑧ 푸터 (visitor counter + 연락 배지 + capsule-render footer) -->
@@ -162,6 +198,7 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ColdBrewony&color=5B7C99&style=for-the-badge&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B7C99?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-woonny-s-projects.vercel.app/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://woo-nny.tistory.com/)
 
 <img
