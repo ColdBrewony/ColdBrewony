@@ -1,0 +1,26 @@
+name: Latest Tistory Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6시간마다
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Tistory posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Tistory RSS posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://woo-nny.tistory.com/rss"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
+          # 티스토리가 기본 User-Agent를 막을 경우 아래 주석 해제
+          # user_agent: "rss-parser"
