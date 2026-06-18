@@ -23,4 +23,4 @@ jobs:
           max_post_count: 5
           commit_message: "chore: update latest blog posts"
           # 티스토리가 기본 User-Agent를 막을 경우 아래 주석 해제
-          # user_agent: "rss-parser"
+          user_agent: "rss-parser"
