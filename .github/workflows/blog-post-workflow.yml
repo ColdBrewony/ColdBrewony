@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Pull in Tistory RSS posts
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -22,5 +22,6 @@ jobs:
           feed_list: "https://woo-nny.tistory.com/rss"
           max_post_count: 5
           commit_message: "chore: update latest blog posts"
-          # 티스토리가 기본 User-Agent를 막을 경우 아래 주석 해제
-          user_agent: "rss-parser"
+          # 티스토리(카카오) WAF가 봇성 기본 UA를 406으로 막아 브라우저 UA + Accept 헤더 명시
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+          accept_header: "application/rss+xml, application/xml, text/xml, */*"
