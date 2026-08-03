@@ -142,11 +142,11 @@
 > [Tistory](https://woo-nny.tistory.com/)에 올린 최근 글이 GitHub Actions로 6시간마다 자동 갱신됩니다.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Hermes] Telegram 다음은 Slack: Hermes Agent를 팀 채널에서 테스트하는 방법 - 3](https://woo-nny.tistory.com/entry/Hermes-Telegram-%EB%8B%A4%EC%9D%8C%EC%9D%80-Slack-Hermes-Agent%EB%A5%BC-%ED%8C%80-%EC%B1%84%EB%84%90%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3)
+- [[Hermes] Xubuntu에서 Hermes Agent 설치하고 Telegram 봇으로 연결하기 - 2](https://woo-nny.tistory.com/entry/Hermes-Xubuntu%EC%97%90%EC%84%9C-Hermes-Agent-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-Telegram-%EB%B4%87%EC%9C%BC%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-2)
 - [[Hermes]오래된 노트북에 Xubuntu를 깔아 Hermes 서버로 쓰기까지 - 1](https://woo-nny.tistory.com/entry/Hermes%EC%98%A4%EB%9E%98%EB%90%9C-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%97%90-Xubuntu%EB%A5%BC-%EA%B9%94%EC%95%84-Hermes-%EC%84%9C%EB%B2%84%EB%A1%9C-%EC%93%B0%EA%B8%B0%EA%B9%8C%EC%A7%80-1)
 - [Lombok&lpar;롬복&rpar; vs Record](https://woo-nny.tistory.com/entry/Lombok%EB%A1%AC%EB%B3%B5-vs-Record)
 - [OpenClaw 테스트 파일](https://woo-nny.tistory.com/entry/OpenClaw-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%8C%8C%EC%9D%BC)
-- [Telegram Bot Token 및 사용자 ID 얻기](https://woo-nny.tistory.com/entry/Telegram-Bot-Token-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EC%9E%90-ID-%EC%96%BB%EA%B8%B0)
-- [[AI]하네스 엔지니어링, 결국 AI를 잘 쓰는 사람의 운영 설계에 가깝다](https://woo-nny.tistory.com/entry/%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EA%B2%B0%EA%B5%AD-AI%EB%A5%BC-%EC%9E%98-%EC%93%B0%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EC%84%A4%EA%B3%84%EC%97%90-%EA%B0%80%EA%B9%9D%EB%8B%A4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ════════════════════════════════════════════════════════════ -->
