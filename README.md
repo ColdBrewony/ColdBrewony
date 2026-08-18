@@ -142,11 +142,11 @@
 > [Tistory](https://woo-nny.tistory.com/)에 올린 최근 글이 GitHub Actions로 6시간마다 자동 갱신됩니다.
 
 <!-- BLOG-POST-LIST:START -->
+- [ColdBreWoony 블로그 소개](https://woo-nny.tistory.com/notice/25)
+- [개인정보처리방침](https://woo-nny.tistory.com/notice/24)
+- [문의하기](https://woo-nny.tistory.com/notice/23)
 - [[Hermes] Hermes Agent 멀티 프로필로 AI 직원 팀 만들기 - 6](https://woo-nny.tistory.com/entry/Hermes-Hermes-Agent-%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%9C%ED%95%84%EB%A1%9C-AI-%EC%A7%81%EC%9B%90-%ED%8C%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-6)
 - [[Hermes] Hermes Agent로 나만의 AI 비서 만들기: 정체성 파일부터 아침 브리핑까지 - 5](https://woo-nny.tistory.com/entry/Hermes-Hermes-Agent%EB%A1%9C-%EB%82%98%EB%A7%8C%EC%9D%98-AI-%EB%B9%84%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A0%95%EC%B2%B4%EC%84%B1-%ED%8C%8C%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%95%84%EC%B9%A8-%EB%B8%8C%EB%A6%AC%ED%95%91%EA%B9%8C%EC%A7%80-5)
-- [[Hermes] Tailscale 사용하기: 집 노트북을 켜두고 외부에서 안전하게 접근하기 - 4](https://woo-nny.tistory.com/entry/Hermes-Tailscale-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%A7%91-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9D%84-%EC%BC%9C%EB%91%90%EA%B3%A0-%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%A0%91%EA%B7%BC%ED%95%98%EA%B8%B0-4)
-- [[Hermes] Telegram 다음은 Slack: Hermes Agent를 팀 채널에서 테스트하는 방법 - 3](https://woo-nny.tistory.com/entry/Hermes-Telegram-%EB%8B%A4%EC%9D%8C%EC%9D%80-Slack-Hermes-Agent%EB%A5%BC-%ED%8C%80-%EC%B1%84%EB%84%90%EC%97%90%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-3)
-- [[Hermes] Xubuntu에서 Hermes Agent 설치하고 Telegram 봇으로 연결하기 - 2](https://woo-nny.tistory.com/entry/Hermes-Xubuntu%EC%97%90%EC%84%9C-Hermes-Agent-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-Telegram-%EB%B4%87%EC%9C%BC%EB%A1%9C-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ════════════════════════════════════════════════════════════ -->
