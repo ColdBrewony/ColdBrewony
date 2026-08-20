@@ -142,11 +142,11 @@
 > [Tistory](https://woo-nny.tistory.com/)에 올린 최근 글이 GitHub Actions로 6시간마다 자동 갱신됩니다.
 
 <!-- BLOG-POST-LIST:START -->
+- [[Etc]클라우드 시스템에서 PG 결제 연동을 시작한 경험담 2편](https://woo-nny.tistory.com/entry/Etc%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-PG-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C-%EA%B2%BD%ED%97%98%EB%8B%B4-2%ED%8E%B8)
 - [[Etc]클라우드 시스템에서 PG 결제 연동을 시작한 경험담 1편](https://woo-nny.tistory.com/entry/Etc%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-PG-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C-%EA%B2%BD%ED%97%98%EB%8B%B4-1%ED%8E%B8)
 - [ColdBreWoony 블로그 소개](https://woo-nny.tistory.com/notice/25)
 - [개인정보처리방침](https://woo-nny.tistory.com/notice/24)
 - [문의하기](https://woo-nny.tistory.com/notice/23)
-- [[Hermes] Hermes Agent 멀티 프로필로 AI 직원 팀 만들기 - 6](https://woo-nny.tistory.com/entry/Hermes-Hermes-Agent-%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%9C%ED%95%84%EB%A1%9C-AI-%EC%A7%81%EC%9B%90-%ED%8C%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ════════════════════════════════════════════════════════════ -->
