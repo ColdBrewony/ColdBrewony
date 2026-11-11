@@ -142,11 +142,11 @@
 > [Tistory](https://woo-nny.tistory.com/)에 올린 최근 글이 GitHub Actions로 6시간마다 자동 갱신됩니다.
 
 <!-- BLOG-POST-LIST:START -->
+- [Google OTP를 붙이기 전, 먼저 바꿔야 했던 이해: 외부 사용자 TOTP 2차 인증 구현기](https://woo-nny.tistory.com/entry/Google-OTP%EB%A5%BC-%EB%B6%99%EC%9D%B4%EA%B8%B0-%EC%A0%84-%EB%A8%BC%EC%A0%80-%EB%B0%94%EA%BF%94%EC%95%BC-%ED%96%88%EB%8D%98-%EC%9D%B4%ED%95%B4-%EC%99%B8%EB%B6%80-%EC%82%AC%EC%9A%A9%EC%9E%90-TOTP-2%EC%B0%A8-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84%EA%B8%B0)
 - [Flyway는 배포 때 무엇을 실행할까: Schema History로 이해하는 DB 마이그레이션](https://woo-nny.tistory.com/entry/Flyway%EB%8A%94-%EB%B0%B0%ED%8F%AC-%EB%95%8C-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%8B%A4%ED%96%89%ED%95%A0%EA%B9%8C-Schema-History%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-DB-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98)
 - [SonarQube Community 도입기](https://woo-nny.tistory.com/entry/SonarQube-Community-%EB%8F%84%EC%9E%85%EA%B8%B0)
 - [[Etc]클라우드 시스템에서 PG 결제 연동을 시작한 경험담 2편](https://woo-nny.tistory.com/entry/Etc%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-PG-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C-%EA%B2%BD%ED%97%98%EB%8B%B4-2%ED%8E%B8)
 - [[Etc]클라우드 시스템에서 PG 결제 연동을 시작한 경험담 1편](https://woo-nny.tistory.com/entry/Etc%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-PG-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C-%EA%B2%BD%ED%97%98%EB%8B%B4-1%ED%8E%B8)
-- [ColdBreWoony 블로그 소개](https://woo-nny.tistory.com/notice/25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ════════════════════════════════════════════════════════════ -->
